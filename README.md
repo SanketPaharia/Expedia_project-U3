@@ -2,7 +2,7 @@
 * Expedia is one of the fastest growing online travel portals in Asia, offering travellers an extensive selection of hotels, activities and travel services to meet every budget and activities of every kind at competitive rates.
 <hr>
 
-# This clone is made using HTML , CSS , Javascript , DOM & Localstorage 😇
+# This is the clone of travel website named Expedia , this clone is made using HTML , CSS , Javascript , DOM & Localstorage along with the team of 5 members in 5 days😇
 
 # Team Members 🤝
 * [Rohit Kumar](https://github.com/Rohit1-1)
